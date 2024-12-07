@@ -23,10 +23,10 @@ The data is transmitted to the **Blynk app** for real-time monitoring.
 3. Users can monitor the health metrics on the app interface.
 
 ## Circuit Diagram
-![Circuit Diagram](link-to-circuit-diagram)
+![Circuit Diagram](link-to-circuit-diagra)
 
 ## Hardware Setup
-![Hardware Setup](link-to-hardware-photo)
+![Hardware Setup](https://github.com/Shreyaswini-2/IoT-Heartrate-SpO2-Tracker/blob/main/IoT.jfif)
 
 ## Blynk App Preview
 ![Blynk App Interface](link-to-blynk-preview)

@@ -29,11 +29,11 @@ The data is transmitted to the **Blynk app** for real-time monitoring.
 ![Hardware Setup](https://github.com/Shreyaswini-2/IoT-Heartrate-SpO2-Tracker/blob/main/IoT.jfif)
 
 ## Blynk App Preview
-![Blynk App Interface](https://github.com/Shreyaswini-2/IoT-Heartrate-SpO2-Tracker/blob/main/main.c)
+![Code](https://github.com/Shreyaswini-2/IoT-Heartrate-SpO2-Tracker/blob/main/main.c)
 
 ---
 
 **Contact Information**  
 For questions or collaboration:  
 - Email: shreyaswini100502@gmail.com  
-- GitHub: Shreyaswini-2(https://github.com/your-username)
+- GitHub: Shreyaswini-2(https://github.com/Shreyaswini-2)
